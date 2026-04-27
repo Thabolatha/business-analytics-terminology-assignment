@@ -1,4 +1,3 @@
-# business-analytics-terminology-assignment
 
 # Business Analytics Terminology Assignment
 
